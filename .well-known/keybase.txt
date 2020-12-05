@@ -1,0 +1,57 @@
+
+==================================================================
+https://keybase.io/masiih
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://derkani.org
+  * I am masiih (https://keybase.io/masiih) on keybase.
+  * I have a public key ASCpO8NVqr4LoRPcL0vzkP_YYucLV_EE8LyHg4E3ZIaKdwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120773f3c04f36b853c912b33bd0dc58d202645c3a6bb380c4338ba9c176d8403900a",
+      "host": "keybase.io",
+      "kid": "0120a93bc355aabe0ba113dc2f4bf390ffd862e70b57f104f0bc8783813764868a770a",
+      "uid": "e897087176a4fcf91dfb4e3d3e734c19",
+      "username": "masiih"
+    },
+    "merkle_root": {
+      "ctime": 1607167925,
+      "hash": "79e682befa976a7b1ea522a074342493e12f34f5f0d6dfe025e37e910719866655f04c6f8691c8ac4c331a0d40311902d0709865bfebf59cd112e1fd94105041",
+      "hash_meta": "837999008fa7c790fd721540700de975d10e608150e7d003b97f6f8142ef33f1",
+      "seqno": 18319687
+    },
+    "service": {
+      "entropy": "RDtT3tFWulF8kpHYZ7RUHDoI",
+      "hostname": "derkani.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1607167986,
+  "expire_in": 504576000,
+  "prev": "7cf75196a03e74821c28be51c5513f0b3d3306f87a7f7dd4203d0b118e8ab804",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqTvDVaq+C6ET3C9L85D/2GLnC1fxBPC8h4OBN2SGincKp3BheWxvYWTESpcCCsQgfPdRlqA+dIIcKL5RxVE/Cz0zBvh6f33UID0LEY6KuATEIFJxtlFAcDXs2D8FtCmrkRy5R0BiNLMmjQ2j9iJ3Z8Y1AgHCo3NpZ8RAn4SxoIzYmrr8jRJiK/Hy21SNewsVISnjpBUSf50hvwiZlj+T5nQYO9PxBffj42YrHwywQzl6LsQxGLHPjX1pAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKkzJgVvO8MGZaEFW34NyyjpzsEejrjG91iTnHSZDC/Ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/masiih
+
+==================================================================
